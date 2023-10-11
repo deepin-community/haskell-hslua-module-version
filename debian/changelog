@@ -1,5 +1,23 @@
-template-repository (1.0-1) unstable; urgency=medium
+haskell-hslua-module-version (1.0.3-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Scott Talbert <swt@techie.net>  Mon, 10 Oct 2022 13:08:13 -0400
+
+haskell-hslua-module-version (1.0.2-3) unstable; urgency=medium
+
+  * Disable RTS -N
+
+ -- Scott Talbert <swt@techie.net>  Tue, 09 Aug 2022 16:44:03 -0400
+
+haskell-hslua-module-version (1.0.2-2) unstable; urgency=medium
+
+  * Post-NEW source-only upload
+
+ -- Scott Talbert <swt@techie.net>  Tue, 09 Aug 2022 14:22:15 -0400
+
+haskell-hslua-module-version (1.0.2-1) unstable; urgency=low
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Scott Talbert <swt@techie.net>  Mon, 08 Aug 2022 09:21:13 -0400
